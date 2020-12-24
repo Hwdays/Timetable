@@ -65,7 +65,7 @@
         </constraints>
         <properties>
           <labelFor value="216e"/>
-          <text value="Назвние"/>
+          <text value="Название"/>
         </properties>
       </component>
       <component id="6c9fc" class="javax.swing.JLabel">
