@@ -22,7 +22,7 @@ public class TimetableForm extends JFrame {
     public TimetableForm() {
         timetable = new Timetable();
         ILesson l = new Lesson();
-        l.setTitle("asdasdas");
+        l.setTitle("Пример");
         timetable.get(0).addLesson(l);
 
         setContentPane(panel);
